@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Morgan Sung",
+          "title": "Kick streamers consider leaving over CEO's comments in a sex worker 'prank' stream | TechCrunch",
+          "description": "Streamers are leaving the platform en masse in protest of the lack of safety guidelines, after Ice Poseidon's \"prank\" stream with a sex worker.",
+          "url": "https://techcrunch.com/2023/09/29/kick-streamers-leave-ceo-ice-poseidon-prank-sex-work/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/kick-boot-plus-emoji.jpg?resize=1200,675",
+          "publishedAt": "2023-09-30T00:19:44Z",
+          "content": "Streamers are leavingKick en masse in protest of the platforms lack of safety guidelines, after a prominent creator streamed an encounter with a sex worker without informing her that there were other… [+9323 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Harri Weber",
+          "title": "VW bails on its plan for a $2.1B EV plant in Germany | TechCrunch",
+          "description": "Volkswagen's $2.1 billion plan to launch a new EV factory is kaput. The automaker instead reportedly said it will tap existing plants.",
+          "url": "https://techcrunch.com/2023/09/29/vw-bails-on-its-plan-for-a-2-1b-ev-plant-in-germany/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1694437148.jpg?resize=1200,800",
+          "publishedAt": "2023-09-29T20:37:06Z",
+          "content": "Volkswagen’s $2.1 billion plan to launch a dedicated electric-vehicle factory in Wolfsburg, Germany is kaput. \r\nThe automaker instead reportedly plans to modify its existing plants in Zwickau and Wol… [+947 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Jacquelyn Melinek and Alex Wilhelm",
+          "title": "Pudgy Penguins' approach may be the answer to fixing NFTs' revenue problems | TechCrunch",
+          "description": "The company's toy-focused expansion is its bet that NFTs should have a broader presence, one that’s not limited to the digital world.",
+          "url": "https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/FaZp7iSXoAAwdgz.jpeg?resize=1200,799",
+          "publishedAt": "2023-09-29T17:41:41Z",
+          "content": "Pudgy Penguins was once solely known for its 8,888 NFT collection. But ever since 24-year-old Luca Netz bought the project for $2.5 million and took over as CEO in April 2022, it has evolved into an … [+2471 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Mike Butcher",
+          "title": "Two large equity funds launched this week. What gives? | TechCrunch",
+          "description": "Two large equity funds came out of the gate this week. So, what gives? Earlier this year we covered how Liquidity Group, a growth-stage debt financier,",
+          "url": "https://techcrunch.com/2023/09/29/two-large-equity-funds-launched-out-of-europe-this-week-what-gives/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-600632443.jpg?resize=1200,731",
+          "publishedAt": "2023-09-29T17:17:18Z",
+          "content": "Two large equity funds came out of the gate this week. So, what gives? \r\nEarlier this year we covered how Liquidity Group, a growth-stage debt financier, had raised $40M and launched a $250M debt fun… [+4377 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Walter Thompson",
+          "title": "TechCrunch+ Roundup: How to pitch 7 VCs, building AI moats, immigration law Q&A | TechCrunch",
+          "description": "Meeting investors is easy. The hard part is crafting a story that’s so convincing, they’ll wire you some money.",
+          "url": "https://techcrunch.com/2023/09/29/techcrunch-roundup-how-to-pitch-6-vcs-building-ai-moats-immigration-law-qa/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1699314169.jpg?resize=1200,900",
+          "publishedAt": "2023-09-29T17:05:25Z",
+          "content": "Last week at TechCrunch Disrupt (recaps coming soon), I spent less time than usual in the green room where staff and speakers work behind the scenes, and spent hours walking around Moscone Center.\r\nM… [+5252 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Sarah Perez",
+          "title": "BeReal pushes back at report that it's losing steam, says it now has 25M daily users | TechCrunch",
+          "description": "Just under a year ago, the buzzy new social app BeReal looked to be on the rise, with reportedly 20 million users launching the app every day to snap",
+          "url": "https://techcrunch.com/2023/09/29/bereal-pushes-back-at-report-that-its-losing-steam-says-it-now-has-25m-daily-users/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/BeReal_GettyImages_1242373466.jpeg?w=1024",
+          "publishedAt": "2023-09-29T16:52:49Z",
+          "content": "Just under a year ago, the buzzy new social app BeReal looked to be on the rise, with reportedly 20 million users launching the app every day to snap their candid photos. However, in the months since… [+4964 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Dominic-Madori Davis",
+          "title": "VC Office Hours: How data can help improve social impact investing | TechCrunch",
+          "description": "Erin Harkless Moore talks about Pivotal Ventures’ investment strategy, and its future.",
+          "url": "https://techcrunch.com/2023/09/29/vc-office-hours-how-data-can-help-improve-social-impact-investing/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/tc-plus-office-hours-1.jpg?resize=1200,675",
+          "publishedAt": "2023-09-29T16:25:06Z",
+          "content": "Erin Harkless Moore was always interested in math. So, she headed to Wall Street. It was intoxicating in some ways and incredibly fast-paced, she recalls. She apparently enjoyed that life, too, given… [+1758 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Brian Heater",
+          "title": "Google Pixel Event 2023: Pixel 8, Watch 2 and everything else we expect | TechCrunch",
+          "description": "Google's annual Pixel hardware event is coming up next week. We expect to see the Pixel 8, Pixel 8 Pro and Pixel Watch 2.",
+          "url": "https://techcrunch.com/2023/09/29/google-pixel-event-2023-pixel-8-watch-2-and-everything-else-we-expect/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-at-5.27.21 PM.jpg?resize=1200,660",
+          "publishedAt": "2023-09-29T16:21:01Z",
+          "content": "Its been a wild few weeks for consumer hardware news, but it seems the season is finally winding down. Weve already seen big events from Apple, Amazon and Microsoft, and now its time for Google to ge… [+3241 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Alex Wilhelm and Anna Heim",
+          "title": "Startups may have trouble finding their enterprise footing | TechCrunch",
+          "description": "According to a survey from Battery Ventures, the percentage of respondents that let their engineers self-select tools fell from 74% in Q3 2023 to 44% last quarter.",
+          "url": "https://techcrunch.com/2023/09/29/software-market-maybe-stabilizing/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-468755155.jpg?resize=1200,800",
+          "publishedAt": "2023-09-29T16:06:30Z",
+          "content": "The software spend squeeze is lessening, new data from Battery Ventures indicates. According to the venture capital firms survey of enterprise firms with 100 C-suite leaders at companies around $35 b… [+1646 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Haje Jan Kamps",
+          "title": "When predatory investors damage your chances of success | TechCrunch",
+          "description": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday. You know what isn’t a great idea for my energy levels? Enjoying a week of",
+          "url": "https://techcrunch.com/2023/09/29/when-predatory-investors-damage-your-chances-of-success/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-108221399.jpg?resize=1200,800",
+          "publishedAt": "2023-09-28T22:03:17Z",
+          "content": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.\r\nYou know what isnt a great idea for my energy levels? Enjoying a week of TechCrunch Disrupt and then getting straight o… [+6887 chars]"
+      }
+  ]
+}
