@@ -11,7 +11,7 @@ function App() {
   return (
     <>
      
-    <Switch>
+    <Switch basename="Media-string-" >
     
       <NavBar ></NavBar>
         <Routes>
